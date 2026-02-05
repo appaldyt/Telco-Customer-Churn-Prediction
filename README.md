@@ -3,3 +3,8 @@ Industri telekomunikasi (telco) memiliki persaingan yang sangat ketat, kemampuan
 
 Website Streamlit
 https://nusaneuron-telco-customer-churn-prediction.7jwomn.easypanel.host/
+
+Tableau
+https://public.tableau.com/views/TelcoCustomerChurnDashboard_17701711006980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
