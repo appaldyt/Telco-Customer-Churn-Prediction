@@ -31,11 +31,11 @@ Dataset yang digunakan adalah *Telco Customer Churn* dengan:
 - **21** kolom (20 fitur + target `Churn`)
 - **Churn rate:** ~**26.54%** (Yes)
 
-**Fitur utama** (contoh):
+**Fitur utama**:
 - Demografi: `gender`, `SeniorCitizen`, `Partner`, `Dependents`
 - Layanan: `InternetService`, `OnlineSecurity`, `TechSupport`, `StreamingTV`, dll.
-- Kontrak & billing: `Contract`, `PaperlessBilling`, `PaymentMethod`
-- Biaya: `MonthlyCharges`, `TotalCharges`, `tenure`
+- Kontrak & billing: `tenure`, `Contract`, `PaperlessBilling`, `PaymentMethod`
+- Biaya: `MonthlyCharges`, `TotalCharges` 
 
 ---
 
