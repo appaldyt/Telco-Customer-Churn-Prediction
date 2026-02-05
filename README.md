@@ -134,10 +134,12 @@ Dashboard interaktif untuk monitoring churn:
 │   └── feature_columns.joblib
 ├── dataset/
 │   └── Dataset-Telco-Customer-Churn.csv
+├── Beta_Analytics_Telco_Customer_Churn.ipynb
 ├── app.py
 ├── requirements.txt
 ├── Dockerfile
 ├── start.sh
+├── telco_customer_churn_dashboard.twbx
 └── telco_churn_artifacts.zip
 ```
 
